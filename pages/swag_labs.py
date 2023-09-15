@@ -25,3 +25,4 @@ class SwagLabs(BasePage):
             return False
         return True
 
+
